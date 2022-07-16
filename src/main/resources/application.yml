@@ -1,0 +1,10 @@
+server:
+  port: 8081
+mailServer:
+  host: smtp.gmail.com
+  port: 587
+  email: thienhuonghuong290995@gmail.com
+#  mail dùng để gửi đi
+  password: jrdrwgseqzasbejp
+  protocol: smtp
+  isSSL: false
